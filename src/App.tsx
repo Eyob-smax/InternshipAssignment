@@ -193,7 +193,7 @@ export default function App() {
                 className="min-w-[190px] hover:scale-110 duration-700 hover:-rotate-6 relative h-[179px] rounded-[24px] overflow-hidden"
               >
                 <img
-                  src={image}
+                  src={img}
                   className="filter grayscale hover:filter-none "
                   alt=""
                 />
